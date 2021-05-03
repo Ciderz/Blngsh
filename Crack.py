@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
- 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@HackingLinuxII
-TumisoRSA
-/
-Brandedsoach
-4
-1219
-Code
-Issues
-2
-Pull requests
-2
-Actions
-Projects
-Wiki
-Security
-Insights
-Blngsh.py
-@TumisoRSA
-TumisoRSA Create Blngsh.pu
-Latest commit a58e3cd on 03 May, 2020
- History
- 1 contributor
-483 lines (414 sloc)  25.1 KB
-  
 # Ustad#Tumi#Damn#Nigga#!/usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
